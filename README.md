@@ -27,11 +27,14 @@ python app.py
 ```
 
 ## Usage
+- Access the server link: http://nikhilg19.pythonanywhere.com/
 - On the file upload page, click the "Choose File" button to select a file from your local machine.
 - After selecting the file, click the "Upload" button to upload the file to the server.
 - Once the file is successfully uploaded, a short link will be generated for the uploaded file.
 - You can copy the short link and share it with others.
 - To download the file, simply access the short link in a web browser, and the file will start downloading automatically.
+
+
 
 ## Acknowledgements
  The File Upload & Short Link Generator utilizes the following technologies and resources:
